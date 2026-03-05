@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(32, 195, 192);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+
+p {
+    background-color: rgb(31, 171, 16);
+}
+
+h2{
+    color: rgb(83, 8, 8);
+}
+ol{
+    background-color: rgb(237, 213, 32);
+}
+h3{
+    background-color: rgb(31, 171, 16);
+    font-family: cursive;
+    color: azure;
+}
+#fuente_diferente {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.texto_grande {
+    font-size: x-large;
+}
+a:hover {
+    color: deeppink;
+}
